@@ -1,0 +1,9 @@
+opencv-python
+numpy
+mediapipe
+streamlit
+pygame
+matplotlib
+seaborn
+pandas
+pinecone-client
