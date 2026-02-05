@@ -1,10 +1,4 @@
 opencv-python-headless
 numpy
-mediapipe
 streamlit
-pygame
-matplotlib
-seaborn
-pandas
-pinecone-client
 tensorflow
