@@ -1,4 +1,4 @@
-opencv-python
+opencv-python-headless
 numpy
 mediapipe
 streamlit
@@ -7,3 +7,4 @@ matplotlib
 seaborn
 pandas
 pinecone-client
+tensorflow
